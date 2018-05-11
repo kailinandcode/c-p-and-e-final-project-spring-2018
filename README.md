@@ -1,12 +1,12 @@
 NB: You might find useful the [sample proposal](http://github.com/zamfi/ucb-jacobs-creative-programming-electronics-spring-2018/blob/master/hw/sample-proposal.md) useful in completing this assignment!
 
-# Your Project Title Here
+# Zoomba
 
 One-sentence summary of your project goes here. Then, make sure you have each of these sections completed:
 
 ## Team
 
-A list of your team members here.
+Sandy Chu, Kailin Li, Alvin Tan. 
 
 ## Summary
 
@@ -28,10 +28,10 @@ A brief discussion of what was hard, challenging, or unexpected about your proje
 
 What did you do in each of the past five weeks?
 
-- Week 1: Write proposal
-- Week 2: 
-- Week 3:
-- Week 4:
+- Week 1: Write Proposal
+- Week 2: Order Materials
+- Week 3: Assembly/Code
+- Week 4: Assembly/Code
 - Week 5: Present!
 
 ## Completed Work
