@@ -48,7 +48,7 @@ What did you do in each of the past five weeks?
 
 ## Completed Work
 
-Photos and videos of your completed final project!
+Photos and videos on the project can be found in the rest of this repository.
 
 ## References and links
 
