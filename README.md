@@ -16,7 +16,12 @@ Include a discussion how it will be interactive or responsive to the environment
 
 ## Component Parts
 
-From what pieces did you build your project?
+HC-SR04 Ultrasonic Sensor Distance Module (5pcs) for Arduino UNO MEGA2560 Nano Robot XBee ZigBee by ElecRight
+4 Pcs Arduino Plastic Tire Wheel with DC 3V 5V 6v Gear Motor For DIY Robot Smart Car Robot
+Supporting Swivel Caster Wheel - 1.3" Diameter
+Woodblock
+2 Breadboards
+1 Battery Pack
 
 Include what types of inputs/outputs/data it will use, and a block diagram showing how all those pieces are connected.
 
@@ -39,6 +44,9 @@ What did you do in each of the past five weeks?
 Photos and videos of your completed final project!
 
 ## References and links
+
+https://www.youtube.com/watch?v=XmYqvloiWg0
+http://www.instructables.com/id/CleanBOT/
 
 **Include a link to your final showcase one-pager here in PDF format.**
 
