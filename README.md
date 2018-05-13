@@ -1,3 +1,4 @@
+
 NB: You might find useful the [sample proposal](http://github.com/zamfi/ucb-jacobs-creative-programming-electronics-spring-2018/blob/master/hw/sample-proposal.md) useful in completing this assignment!
 
 # Zoomba
@@ -46,6 +47,7 @@ Photos and videos of your completed final project!
 ## References and links
 
 https://www.youtube.com/watch?v=XmYqvloiWg0
+
 http://www.instructables.com/id/CleanBOT/
 
 **Include a link to your final showcase one-pager here in PDF format.**
