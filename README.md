@@ -1,9 +1,10 @@
 
+
 NB: You might find useful the [sample proposal](http://github.com/zamfi/ucb-jacobs-creative-programming-electronics-spring-2018/blob/master/hw/sample-proposal.md) useful in completing this assignment!
 
 # Zoomba
 
-One-sentence summary of your project goes here. Then, make sure you have each of these sections completed:
+Zoomba is a battery-packed powered robot that picks up letters from the floor and turn them into confetti!
 
 ## Team
 
@@ -18,10 +19,15 @@ Include a discussion how it will be interactive or responsive to the environment
 ## Component Parts
 
 HC-SR04 Ultrasonic Sensor Distance Module (5pcs) for Arduino UNO MEGA2560 Nano Robot XBee ZigBee by ElecRight
+
 4 Pcs Arduino Plastic Tire Wheel with DC 3V 5V 6v Gear Motor For DIY Robot Smart Car Robot
+
 Supporting Swivel Caster Wheel - 1.3" Diameter
+
 Woodblock
+
 2 Breadboards
+
 1 Battery Pack
 
 Include what types of inputs/outputs/data it will use, and a block diagram showing how all those pieces are connected.
